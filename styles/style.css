@@ -1,0 +1,113 @@
+header {
+  max-width: 1320px;
+  height: 600px;
+  margin: 50px auto;
+  background-image: url(../resources/Banner.png);
+  background-repeat: no-repeat;
+  border-radius: 0px 15px 15px 0px;
+}
+
+.offer {
+  color: #ff0000;
+  font-family: "Inter", sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.offer-notic {
+  color: #f00;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.offer-items {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: -20px;
+}
+.sale-des {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  color: #070211;
+  margin-bottom: 64px;
+}
+
+.party-container {
+  max-height: 100%;
+  margin: auto;
+}
+
+.midnight-party {
+  background-image: url(../resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.party-headline {
+  color: #fff;
+  font-size: 54px;
+  font-weight: 900;
+  text-align: left;
+  letter-spacing: 2px;
+}
+
+.party-description {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+}
+
+.btn {
+  text-align: left;
+  color: antiquewhite;
+  padding: 20px;
+}
+.new-park {
+  margin-bottom: 20px;
+}
+.park-details {
+  height: 300px;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.park-info {
+  color: #f00;
+}
+
+.best-offer {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.paragraph {
+  margin-top: -40px;
+}
+
+hr {
+  border-top: 1px solid red;
+}
+
+.footer-content {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+}
